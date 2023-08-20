@@ -13,4 +13,4 @@ Installation:
 - [Installation](https://github.com/andysingal/Reinforcement_Learning/blob/main/Installation.md)
 
 Integration:
-- 
+- [Huggingface-Integration](https://github.com/andysingal/Reinforcement_Learning/blob/main/Hugging-Face-Integration.md)
