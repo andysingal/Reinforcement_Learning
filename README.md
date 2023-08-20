@@ -10,6 +10,7 @@ Environments:
 - 
 
 Installation:
+- [Getting Started](https://github.com/andysingal/Reinforcement_Learning/blob/main/docs/Getting-Started.md)
 - [How to install Unity ML Agents Release 20 in 2023](https://www.youtube.com/watch?v=Dj-BsYtANE0)
 - [Installation](https://github.com/andysingal/Reinforcement_Learning/blob/main/Installation.md)
 
