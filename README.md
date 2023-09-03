@@ -20,6 +20,7 @@ Integration:
 
 Resources:
 - [ML AGENTS](https://github.com/Unity-Technologies/ml-agents/tree/develop)
+- https://github.com/danijar/dreamerv3
 
 
 
