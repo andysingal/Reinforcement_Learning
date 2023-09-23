@@ -7,7 +7,7 @@ Huggingface Repo:
 
 Environments:
 - https://blog.unity.com/engine-platform/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit
-- 
+- https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
 Installation:
 - [Getting Started](https://github.com/andysingal/Reinforcement_Learning/blob/main/docs/Getting-Started.md)
