@@ -24,4 +24,6 @@ Resources:
 - https://saturncloud.io/glossary/continuousaction-reinforcement-learnin
 
 
-
+RL-Zoo:
+- https://stable-baselines3.readthedocs.io/en/master/guide/rl_zoo.html
+- 
