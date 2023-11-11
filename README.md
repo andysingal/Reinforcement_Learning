@@ -27,4 +27,6 @@ Resources:
 
 RL-Zoo:
 - https://stable-baselines3.readthedocs.io/en/master/guide/rl_zoo.html
-- 
+
+Multi0Agent RL
+- https://applied-rl-course.netlify.app/en 
