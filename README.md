@@ -30,3 +30,7 @@ RL-Zoo:
 
 Multi0Agent RL
 - https://applied-rl-course.netlify.app/en 
+
+
+Resources:
+- [Decisions & Dragons](https://www.decisionsanddragons.com/)
